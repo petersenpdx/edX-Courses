@@ -1,19 +1,19 @@
 {
-  "name": "edX-nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "mongo": "^0.1.0",
-    "mongodb": "^3.5.7",
-    "mongod": "^2.0.0",
-    "nodejs": "^0.0.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "edX-Courses",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "mongo": "^0.1.0",
+        "mongodb": "^3.5.7",
+        "mongod": "^2.0.0",
+        "nodejs": "^0.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
 }
